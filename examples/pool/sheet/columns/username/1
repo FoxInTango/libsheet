@@ -1,0 +1,6 @@
+128 - 记录数
+0   - 记录类型 /8/16/32/64/string[length]
+32  - 记录长度
+32  - 首部长度
+some thing
+some thing
